@@ -1,3 +1,3 @@
-Hello how are you?
-
-Im fine how are you?
+Seems there are changes
+to commit still
+look I am using git
